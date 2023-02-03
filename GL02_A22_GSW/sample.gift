@@ -1,0 +1,55 @@
+// Grammar Ex. 2
+
+::EM U5 p34 Gra2.0 Expressions of quantity few/a few/little/a little::[markdown]Complete sentences with _few_, _a few_, _little_ or _a little_.
+
+::EM U5 p34 Gra2.1::I knew very {~=few~a few~little~a little} people al the party, so I didn’t stay long.
+
+// Part 1: Multiple Choice
+::EM U4 p32 Review 1 MultiChoice::Read the text below and decide which answer best fits each gap. There is an example at the beginning.
+<b>The science of happiness</b>
+Some scientisis believe that asking people how happy they are is {1:MC:~=similar to~close to ~Typical of~consist of} asking them about an event they've attended in the past — there’s a lot they {1:MC:~gave~=took~got~kept} no notice of during the experience,so how do they know? These scientists think that anyone studying happiness should pay more {1:MC:~focus~concentration~=attention~regard} to people’s experiences at the time they occur, not afterwards.
+Other scientists say that we are actually {1:MC:~=made~built~created~developed} up of our memories. They suggest that studying moment-to-moment experiences at the time {1:MC:~sets~=puts~fixes~rests} too much emphasis on temporary pleasures, and that happiness goes {1:MC:~stronger~lower~=deeper~greater} than that. They identify three key {1:MC:~=ingredients~parts~factors~items} for happiness: pleasure, engagement (how involved we are with family, work, romance and hobbies) and meaning (how we use our personal strengths to achieve important {1:MC:~intentions~plans~marks~=goals}. It is interesting that, {1:MC:~against~opposing~=contrary~contrast} to what might be expected, pleasure seems to play the smallest part in what makes us happy.
+
+// Part 2: Open Cloze
+::EM U4 p32 Review 2 OpenCloze::Read the text below and think of the word which best fits each gap. Use only one word in each gap.
+// There is an example at the beginning.
+<b>More than just a pretty face?</b>
+There are many stories of dolphins helping people in trouble, {1:SA:=like} saving swimmers from shark attacks by gathering round them or shepherding them to safety. {1:SA:=If} these stories are true, why do dolphins do it and {1:SA:=what} makes them behave in this way? Scientists {1:SA:=who~=that} have studied them are not entirely sure. For dolphins to act together as a group to save humans implies that {1:SA:=there} is some sort of code of ethics among dolphins, but there is little evidence  for that. The {1:SA:=most} likely explanation is that they instinctively respond to the appearance of predators like sharks by herding weaker members of their own group into {1:SA:=a} safe place - and there is proof that dolphins do cooperate with {1:SA:=each~=each other} other to ward off danger. Maybe they just mistake swimmers for part of their group, which would mean that dolphins don’t have genuine feelings of kindness towards humans. {1:SA:=It} may be that their smiling appearance simply gives people the wrong idea.
+
+::EM U4 p33 Review 4.1 more irritating than::[html]Nothing irritates me more than getting hundreds of spam emails.<br>
+<b>MORE</b><br>
+There is nothing {=more irritating than#comparative} getting hundreds of spam emails.
+
+::EM U5 p37 Reading 1.1::Choose the best title for the text.{
+  =Is powdered food the future? Huel put to the test
+  ~It’s nutritious and delicious\: I’m going with Huel
+  ~Give me a hamburger every time\: Huel is not for me
+}
+
+
+::EM U5 p38 Gra3.6 passive:: Jo had opened the restaurant by himself before Rafa joined him as hs business partner.
+(HAD)
+The restaurant {=had been opened by} Jo before Rafa joined him as his business partner.
+
+
+
+::EM U5 p37 Reading 4 collocations::Match an element from each side to make collocations from the text.{
+  =maintain  -> a healthy weight
+  =tuck into -> good food
+  =feel      -> satisfied after a meal
+  =find      -> a meal filling
+  =sip       -> a drink
+  =count     -> calories
+  }
+
+
+$CATEGORY: $course$/top/Gold B2, Unit 11
+
+::U11 p114 Mixed conditionals 4.0::Complete the sentences using the correct form of the verbs in brackets. (If there is more than one possibly, say why.)
+
+::U11 p114 Mixed conditionals 4.1::[html]If I'd left the party earlier, I {=wouldn't feel=wouldn't be feeling=wouldn't have felt=wouldn’t feel=wouldn’t be feeling=wouldn’t have felt=would not feel=would not be feeling=would not have felt} (<i>not/feel</i>) so tired today.
+
+
+::U9 p95 4.3 Third conditional::[html]
+<b>A:</b> We set off a bit late and got held up in the traffic. (<i>leave earlier</i>) <br>
+<b>B:</b> If you ____ in the traffic.{}
